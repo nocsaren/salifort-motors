@@ -1,0 +1,10 @@
+satisfaction_level, Employee-reported job satisfaction level, float, [0–1]
+last_evaluation, Score of employee's last performance review,	float, [0–1]
+number_project,	Number of projects the employee has worked on, integer,	
+average_monthly_hours, Average monthly working hours, integer,	
+time_spend_company, Number of years spent at the company (years),	integer,	
+Work_accident, Whether the employee has had a work accident, binary, [0, 1]
+left,	Whether the employee has left the company, binary, [0, 1]
+promotion_last_5years, Whether the employee was promoted in the last 5 years, binary,	[0, 1]
+Department, The employee's department	string,	N/A,
+salary,	The employee's salary, string, ["low", "medium", "high"]

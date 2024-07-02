@@ -6,5 +6,5 @@ time_spend_company, Number of years spent at the company (years),	integer
 Work_accident, Whether the employee has had a work accident, binary
 left,	Whether the employee has left the company, binary
 promotion_last_5years, Whether the employee was promoted in the last 5 years, binary
-Department, The employee's department	string
+Department, The employee's department, string
 salary,	The employee's salary, string
